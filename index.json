@@ -1,0 +1,11 @@
+{
+  "org": "colcon",
+  "repo": "colcon-core",
+  "versions": [
+    {
+      "commit": "6bfb100bd8a9979e2903210f7a97724d6b8cf2c6",
+      "tag": "",
+      "parsed_at": "2026-10-17T22:55:31.812875+00:00"
+    }
+  ]
+}
